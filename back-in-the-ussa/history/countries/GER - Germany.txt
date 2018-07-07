@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 52
 
 oob = "GER_1936"
 
@@ -216,28 +216,26 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 20
+			popularity = 8
 		}
 
 		fascism = {
-			popularity = 60
+			popularity = 2
 		}
 		
 		communism = {
-			popularity = 20
-			banned = yes #default is no
+			popularity = 90
+			
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = communism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 
 }
 
-create_faction = Axis
-add_to_faction = GER
 
 
 add_ideas = {

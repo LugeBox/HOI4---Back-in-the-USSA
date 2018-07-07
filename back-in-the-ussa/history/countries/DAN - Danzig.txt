@@ -1,4 +1,4 @@
-capital = 362
+capital = 764
 oob = "DAN_1936"
 
 # Starting tech

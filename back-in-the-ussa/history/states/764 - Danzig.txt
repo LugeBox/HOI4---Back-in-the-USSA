@@ -1,0 +1,17 @@
+state = {
+	id=764
+	name="Free City of Danzig"
+	manpower=20000
+	state_category=urbam
+	history={
+		owner = DAN
+		add_core_of = DAN
+		add_core_of = GER
+		victory_points={
+			362 5
+		}
+	}
+	provinces={
+		362
+	}
+}

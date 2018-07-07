@@ -76,7 +76,7 @@ give_guarantee = URG
 
 		#laws
 		isolation
-		volunteer_only
+		limited_conscription
 
 		new_deal
 	}

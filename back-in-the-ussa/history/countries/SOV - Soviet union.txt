@@ -226,16 +226,14 @@ set_politics = {
 	elections_allowed = yes
 }
 
-create_faction = League of Nations
+create_faction = "League of Nations"
 add_to_faction = SOV
 add_to_faction = ENG
 add_to_faction = FRA
 add_to_faction = DAN
 
 add_ideas = {
-	trotskyite_plot
-	home_of_revolution
-}
+	}
 
 create_country_leader = {
 	name = "Joseph Stalin"

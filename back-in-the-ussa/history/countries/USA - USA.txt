@@ -172,20 +172,20 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 99
+			popularity = 10
 		}
 
 		fascism = {
-			popularity = 0
+			popularity = 1
 		}
 		
 		communism = {
-			popularity = 1
+			popularity = 89
 			#banned = no #default is no
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = communism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
@@ -201,10 +201,7 @@ add_ideas = {
 
 
 # DIPLOMACY
-set_autonomy = {
-	target = PHI
-	autonomous_state =  autonomy_puppet
-}
+
 
 1939.1.1 = {
 
@@ -212,20 +209,20 @@ set_autonomy = {
 
 		parties = {
 			democratic = { 
-				popularity = 99
+				popularity = 10
 			}
 
 			fascism = {
-				popularity = 0
+				popularity = 1
 			}
 			
 			communism = {
-				popularity = 1
+				popularity = 89
 				#banned = no #default is no
 			}
 		}
 		
-		ruling_party = democratic
+		ruling_party = communism
 		last_election = "1936.11.3"
 		election_frequency = 48
 		elections_allowed = yes

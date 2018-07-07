@@ -1,4 +1,4 @@
-﻿capital = 361
+﻿capital = 395
 
 oob = "USA_1936"
 
@@ -252,7 +252,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Earl Browder"
+	name = "Syndicate Union Council"
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "Portrait_USA_Generic_1.dds"
 	expire = "1965.1.1"

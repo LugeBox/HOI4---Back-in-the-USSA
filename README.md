@@ -14,3 +14,13 @@ As time goes on we will likely change.. a lot.
   -Created an independent Danzig state, as it was released as a Russian puppet in the Treaty of Versailles
   
   -Removed the base game's factions and added this timeline's: League of Nations, International Union of Socialists, and more to come.
+  
+  -Added/changed flags for the following countries:
+    
+    -USSA
+    
+    -Danzig
+    
+  -Changed the game's music to more accurately reflect the history
+  
+  # Consecutive nightly build count: 3

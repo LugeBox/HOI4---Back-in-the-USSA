@@ -45,7 +45,57 @@ music = {
 	}
 }
 
+music = {
+	song = "allies_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
 
+			has_war = no
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "allies_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "axis_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}		
+	}	
+}
+
+music = {
+	song = "axis_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}		
+	}	
+}
 
 # WAR SONGS ####################
 
@@ -81,7 +131,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-			has_government = communism
+			has_government = fascism
 		}		
 	}	
 }
@@ -94,7 +144,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-			has_government = communism
+			has_government = fascism
 		}		
 	}	
 }
@@ -107,7 +157,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-			has_government = communism
+			has_government = fascism
 		}		
 	}	
 }
@@ -120,7 +170,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-			has_government = communism
+			has_government = fascism
 		}		
 	}	
 }
@@ -151,3 +201,81 @@ music = {
 	}	
 }
 
+music = {
+	song = "comintern_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_peace_3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+
+music = {
+	song = "comintern_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_war_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_war_3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}

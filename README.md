@@ -23,4 +23,4 @@ As time goes on we will likely change.. a lot.
     
   -Changed the game's music to more accurately reflect the history
   
-  # Consecutive nightly build count: 3
+  # Consecutive nightly build count: 0

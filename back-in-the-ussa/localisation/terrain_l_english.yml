@@ -1,0 +1,33 @@
+﻿l_english:
+ unknown:0 "Unknown"
+ unknown_desc:0 ""
+ ocean:0 "Ocean"
+ ocean_desc:0 ""
+ lakes:0 "Lake"
+ lakes_desc:0 ""
+ forest:0 "Forest"
+ forest_desc:0 ""
+ hills:0 "Hills"
+ hills_desc:0 ""
+ mountain:0 "Mountain"
+ mountain_desc:0 ""
+ plains:0 "Plains"
+ plains_desc:0 ""
+ urban:0 "Urban"
+ urban_desc:0 ""
+ jungle:0 "Jungle"
+ jungle_desc:0 ""
+ marsh:0 "Marsh"
+ marsh_desc:0 ""
+ desert:0 "Desert"
+ desert_desc:0 ""
+ UNIT_TERRAIN_MODIFIER:0 "Unit effects:"
+ MOVEMENT_COST:0 "Movement cost within this terrain type x$VALUE|H$"
+#LEADER DESCRIPTIONS
+#Any biographical information before the Divergence Point (10 May 1902) should be historically accurate for leaders that existed IRL!
+
+  #Danzig
+  LEADERS_ARTHUR_GREISER_DESC:0 "Born in Province of Posen, Imperial Germany, Greiser volunteered to join the Imperial German Navy as the Great War broke out. In April 1917, he volunteered for service in the Naval Flying Corps, but while deployed to combat duty he was shot down and wounded between the southern English and Belgian coasts. On 30 September, he was classified as 50% war-disabled and discharged from naval service, having earned First and Second Class Iron Crosses, the Honour Cross of the World War 1914/1918 and a Wound Badge in Black in 1914. Vehemently anti-communist and anti-Christian."
+
+  #Texas
+  LEADERS_JAMES_ALLRED_DESC:0 "James Allred was elected the 33rd Governor of Texas after promising to secure peace for the people of Texas. He negotiated a guarantee of independence from Mexico in exchange for Southern Texas, and seceded from the US in the midst of the Second American Civil War."

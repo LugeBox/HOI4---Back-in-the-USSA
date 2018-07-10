@@ -93,6 +93,8 @@ set_politics = {
 	elections_allowed = yes
 }
 
+give_guarantee = TEX
+
 set_stability = 0.75
 
 create_country_leader = {

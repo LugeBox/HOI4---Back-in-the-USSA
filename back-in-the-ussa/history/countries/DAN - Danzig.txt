@@ -10,25 +10,33 @@ set_technology = {
 set_politics = {
 	parties = {
 		democratic = { 
-			popularity = 88
+			popularity = 60
 		}
 
 		fascism = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		communism = {
-			popularity = 1
+			popularity = 10
 		}
 		
 		neutrality = { 
-			popularity = 11
+			popularity = 20
 		}
 	}
 	
 	ruling_party = democratic
-	last_election = "1934.7.1"
+	last_election = "1934.12.23"
 	election_frequency = 72
 	elections_allowed = yes
 }
 set_stability = 0.60
+
+create_country_leader = {
+	name = "Arthur Greiser"
+	desc = "LEADERS_ARTHUR_GREISER_DESC"
+	picture = "gfx/leaders/DAN/portrait_arthur_greiser.dds"
+	expire = "1965.1.1"
+	ideology = rexism
+}

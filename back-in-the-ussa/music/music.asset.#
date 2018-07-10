@@ -1,0 +1,61 @@
+music = {
+	name = "Solidarity Forever"
+	file = "Solidarity Forever.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Arbeiter von Wien"
+	file = "Arbeiter von Wien.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Bella Ciao"
+	file = "Bella Ciao.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Das Einheitsfrontlied"
+	file = "Das Einheitsfrontlied.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Farewell of Slavianka"
+	file = "Farewell of Slavianka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Internationale"
+	file = "Internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Let the Thunder of Victory Rumble!"
+	file = "Let the Thunder of Victory Rumble!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "March of Siberian Riflemens"
+	file = "March of Siberian Riflemens.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Roter Wedding"
+	file = "Roter Wedding.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Roter Wedding"
+	file = "Roter Wedding.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The White Partisans"
+	file = "The White Partisans.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Varshavianka"
+	file = "Varshavianka.ogg"
+	volume = 0.65
+}

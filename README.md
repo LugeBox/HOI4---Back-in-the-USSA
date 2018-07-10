@@ -11,7 +11,11 @@ As time goes on we will likely change.. a lot.
 # Current Changes
   -Modified the American-Mexican border provinces to create a Gadsden Purchase state that Mexico starts with due to the Second Mexican-American War from 1917 to 1919.
   
-  -Created an independent Danzig state, as it was released as a Russian puppet in the Treaty of Versailles
+  -Created the Danzig state, as it was released as a Russian puppet in the Treaty of Versailles
+  
+  -Created the Texan state, as it seceded from the US in the midst of the Second American Revolution
+  
+  -Gave control of the newly created strategic region "Southern Texas" to Mexico, as agreed to by Texan President Allman in exchange for Mexico's guarantee of independence.
   
   -Removed the base game's factions and added this timeline's: League of Nations, International Union of Socialists, and more to come.
   
@@ -20,7 +24,8 @@ As time goes on we will likely change.. a lot.
     -USSA
     
     -Danzig
-    
-  -Changed the game's music to more accurately reflect the history
+	
+	-Texas
+ 
   
-  # Consecutive nightly build count: 0
+  # Consecutive nightly build count: 1

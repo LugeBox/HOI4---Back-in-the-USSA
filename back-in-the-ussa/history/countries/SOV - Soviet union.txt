@@ -232,6 +232,15 @@ add_to_faction = ENG
 add_to_faction = FRA
 add_to_faction = DAN
 
+if{
+	limit = {has_dlc = "Together for Victory"}
+	set_autonomy={
+		target = DAN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {puppet = DAN}
+}
+
 add_ideas = {
 	}
 

@@ -1,5 +1,5 @@
 
-capital = 764
+capital = 52
 oob = "BAV_1936"
 
 # Starting tech

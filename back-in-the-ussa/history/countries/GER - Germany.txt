@@ -1,4 +1,4 @@
-﻿capital = 52
+﻿capital = 64
 
 oob = "GER_1936"
 
@@ -216,23 +216,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 8
+			popularity = 40
 		}
 
 		fascism = {
-			popularity = 2
+			popularity = 40
 		}
 		
 		communism = {
-			popularity = 90
+			popularity = 20
 			
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 
 }
 

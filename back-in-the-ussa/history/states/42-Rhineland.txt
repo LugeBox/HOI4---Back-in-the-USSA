@@ -11,16 +11,16 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = GER
+		owner = RLP
 		victory_points = { 11435 10 }
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 3
 
 		}
-		add_core_of = GER
+		add_core_of = RLP
 	
-		set_demilitarized_zone = no
+		set_demilitarized_zone = yes
 		
 		1936.3.7 = {
 			set_demilitarized_zone = no

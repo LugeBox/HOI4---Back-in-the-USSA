@@ -1,4 +1,4 @@
-capital = 58
+﻿capital = 58
 oob = "SHW_1936"
 
 # Starting tech

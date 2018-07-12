@@ -1,4 +1,4 @@
-capital = 56
+﻿capital = 56
 oob = "LSX_1936"
 
 # Starting tech

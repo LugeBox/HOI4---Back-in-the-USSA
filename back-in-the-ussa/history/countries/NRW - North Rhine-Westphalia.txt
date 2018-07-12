@@ -1,4 +1,4 @@
-capital = 51
+﻿capital = 51
 oob = "NRW_1936"
 
 # Starting tech
